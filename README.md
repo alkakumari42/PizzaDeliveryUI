@@ -44,3 +44,32 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Learnings - React-Typescript based Pizza Delivery App
+1. Component - A piece of react that can render independentally and that hold its own state and properties(props).
+    1. How to do communication between components? - 
+    2. Condition rendering of components - 
+    3. Functional vs Class Component - 
+    4. props - 
+    5. state - 
+        1. how to define state - 
+        2. How to chnage state - 
+        3. whats the effect of state change ? -
+2. node_modules - 
+3. package.json - 
+4. CORS - 
+5. API Call - 2 ways
+    1. fetch() - 
+    2. Axios - 
+6. useEffect() - 
+7. ReactDOM - 
+    1. ReactDOM.createRoot() - 
+8. root.render() - 
+9. reportWebVitals() - 
+10. tsconfig.json - 
+11. Standard import vs. default import - 
+    1. when we export each module independentally in a file - eg - export { fun1, fun2, fun3} - we import as import { fun1, fun2 } from 'file name'
+    2. When we export only one thing from a file - we can do default export - export default fun1 - And import as import fun1 from 'filename'.
+    
+
+
